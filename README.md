@@ -1,7 +1,7 @@
 <p align="left"> <img src="img/Black Modern Software Developer LinkedIn Banner.png" alt="parzybaal" /> </p>
 
 <h3 align="center">¿Quién soy?</h3>
-<p>Soy una persona altamente comprometida y apasionada por mi trabajo, siempre dispuesta a dar lo mejor de mí. Me motiva a mejorar constantemente mis habilidades y lograr un desempeño excepcional en mis proyectos. Mi sed de superación personal es fuerte, lo que me impulsa a destacar y obtener resultados sobresalientes en cualquier entorno laboral o emprendimiento en el que me encuentre. Considero que mi autocompetitividad es una cualidad positiva, ya que me impulsa a esforzarme al máximo y mantener altos estándares de calidad en todo lo que hago.</p>
+<p>Soy un desarrollador altamente comprometido y apasionado por la programación, siempre dispuesto a dar lo mejor de mí. Estoy motivado a mejorar constantemente mis habilidades y lograr un desempeño excepcional en mis proyectos. Mi sed de superación personal es fuerte, lo que me impulsa a destacar y obtener resultados sobresalientes en cualquier entorno laboral o emprendimiento en el que me encuentre. Considero que mi autocompetitividad es una cualidad positiva, ya que me impulsa a esforzarme al máximo y mantener altos estándares de calidad en todo lo que hago.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parzybaal&label=Profile%20views&color=0e75b6&style=flat" alt="parzybaal" /> </p>
 
