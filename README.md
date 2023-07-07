@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [E-Latam](https://pf-e-latam.netlify.app/)
 
-- 🌱 I’m currently learning **Next.js, Angular, Typescript, Vue.js**
+- 🌱 I’m currently learning **Vue.js, Tailwind CSS**
 
 - 💬 Ask me about **React, Javascript and Vite.js**
 
