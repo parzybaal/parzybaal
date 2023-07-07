@@ -27,3 +27,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parzybaal&show_icons=true&locale=en&layout=compact" alt="parzybaal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parzybaal&show_icons=true&locale=en" alt="parzybaal" /></p>
+
+<h3>!Gracias por visitar mi Github!</h3>
+
+<p>Además, si eres reclutador y estás interesado en conocer más sobre mi trabajo, te invito a revisar mi currículum adjunto y explorar mis proyectos anteriores. Estoy abierto a oportunidades laborales y dispuesto a demostrar mi habilidad y pasión por la programación. Si tienes alguna pregunta o deseas conversar, por favor contáctame a través de los medios proporcionados en mi perfil.</p>
+
+<p>Además, Si eres un programador y quieres que realizemos una colaboración, !te invito a contactarme para empezar a programar juntos!. ¡Tu experiencia y conocimientos serán valorados! Si tienes alguna pregunta o          sugerencia, no dudes en abrir un issue para discutirlo. ¡Espero colaborar contigo en un emocionante proyecto!</p>
